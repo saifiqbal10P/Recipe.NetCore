@@ -1,0 +1,9 @@
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.deps.json
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.pdb
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csprojResolveAssemblyReference.cache
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb
