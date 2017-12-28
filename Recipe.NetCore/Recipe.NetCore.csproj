@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <AdditionalFiles Include="$(SolutionDir)\_stylecop\stylecop.json" Link="stylecop.json" />
+    <Compile Remove="_stylecop\**" />
+    <EmbeddedResource Remove="_stylecop\**" />
+    <None Remove="_stylecop\**" />
   </ItemGroup>
 
   <ItemGroup>

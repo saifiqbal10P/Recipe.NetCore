@@ -7,3 +7,12 @@ D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recip
 D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
 D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
 D:\CompliantClouds\Compliant-Clouds\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csprojResolveAssemblyReference.cache
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.csproj.CoreCompileInputs.cache
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfoInputs.cache
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.AssemblyInfo.cs
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\obj\Debug\netcoreapp2.0\Recipe.NetCore.pdb
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.deps.json
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.dll
+D:\Recipe.NetCore\Recipe.NetCore\Recipe.NetCore\bin\Debug\netcoreapp2.0\Recipe.NetCore.pdb

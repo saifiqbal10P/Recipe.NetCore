@@ -12567,11 +12567,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\CompliantClouds\\Compliant-Clouds\\Recipe.NetCore\\Recipe.NetCore.csproj",
+      "projectUniqueName": "D:\\Recipe.NetCore\\Recipe.NetCore\\Recipe.NetCore\\Recipe.NetCore.csproj",
       "projectName": "Recipe.NetCore",
-      "projectPath": "D:\\CompliantClouds\\Compliant-Clouds\\Recipe.NetCore\\Recipe.NetCore.csproj",
+      "projectPath": "D:\\Recipe.NetCore\\Recipe.NetCore\\Recipe.NetCore\\Recipe.NetCore.csproj",
       "packagesPath": "C:\\Users\\saifullah.iqbal\\.nuget\\packages\\",
-      "outputPath": "D:\\CompliantClouds\\Compliant-Clouds\\Recipe.NetCore\\obj\\",
+      "outputPath": "D:\\Recipe.NetCore\\Recipe.NetCore\\Recipe.NetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
